@@ -1,3 +1,13 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
 body {
-    background-color: aqua;
+    background-color: white;
+    width: 1280px;
+}
+article, footer{
+    margin: 0 auto;
+    width: 80%;
+    display: block;
+    text-align: justify;
 }
